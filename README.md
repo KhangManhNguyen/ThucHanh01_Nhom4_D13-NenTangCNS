@@ -6,11 +6,14 @@
 - Nguyễn Mạnh Khang - B2613107 - Nhiệm vụ 3.1( Infographic Canva).
 - Nguyễn Đức Huy - B2613105 - Nhiệm vụ 3.2( Đoạn văn đạo đức AI). 
 ## Nội dung thực hành
-1. **Cấu hình phần cứng/phần mềm với AI**; Tìm hiêU thông số thiết bị về CPU Model/RAM/Loại Ổ Cứng .
+1. **Cấu hình phần cứng/phần mềm với AI**; Tìm hiêU thông số thiết bị về CPU/Model/RAM/Loại Ổ Cứng .
 3. **Giải quyết sự cô kỹ thuật với AI**: Khắc phục lỗi Wi-Fi không kết nối với thiết bị Windows 10 bằng phương pháp chạy các câu lệnh.
 
-5. **Ứng dụng AI trong học tập**; Tạo infographic bằng Canva AI(Maguc Design) và phân tích một số ứng dụng của AI liên quan đến các lĩnh vực công nghệ thông tin
+5. **Ứng dụng AI trong học tập**; Tạo infographic bằng Canva AI(Maguc Design) và phân tích một số ứng dụng của AI liên quan đến các lĩnh vực công nghệ thông tin.
 ## Công cụ AI đã sử dụng
-- Gemini, Gork AI : hổ trợ tra cứu thông tin, dữ liệu liên quan đến thông số máy tính sinh viên, cách khắc phục lỗi không thể kết nối trên Windows .
-- Canva AI (Magic Design): "Tạo infographic về ứng dụng Al trong công nghệ thông tin".
-  
+- Gemini, Gork AI : hổ trợ tra cứu thông tin, dữ liệu liên quan đến thông số trên thiết bị,cách khắc phục lỗi không thể kết nối trên Windows 10 .
+- Canva AI (Magic Design): "Tạo infographic về ứng dụng Al trong công nghệ thông tin" dùng câu lệnh trên để tạo thông tin bằng AI.
+  ## Trích dẫn và đạo đức sử dụng AI
+ Các nội dung do AI hỗ trợ đều được nhóm kiễm tra,chỉnh sửa và ghi rõ nguồn gốc trước khi chia sẻ Tài.
+## Tài liệu tham khảo
+- [3] JRC (2022). DigComp 2.2: The Digital Competence Framework for Citizens
