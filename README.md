@@ -11,6 +11,6 @@
 
 3. **Ứng dụng AI trong học tập**; Tạo infographic bằng Canva AI và phân tích đạo đức 
 ## Công cụ AI đã sử dụng
-- ** Gemini, Gork **: hổ trợ tra cứu thông tin, dữ liệu liên quan đến 
+- Gemini, Gork AI : hổ trợ tra cứu thông tin, dữ liệu liên quan đến thông số máy tính sinh viên, cách khắc phục lỗi không thể kết nối trên Windows .
 - Canva AI (Magic Design): "Tạo infographic về ứng dụng Al trong công nghệ thông tin".
   
