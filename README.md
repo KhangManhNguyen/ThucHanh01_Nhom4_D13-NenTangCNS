@@ -7,11 +7,11 @@
 - Nguyễn Đức Huy - B2613105 - Nhiệm vụ 3.2( Đoạn văn đạo đức AI). 
 ## Nội dung thực hành
 1. **Cấu hình phần cứng/phần mềm với AI**; Tìm hiểu thông số thiết bị về CPU/Model/RAM/Loại Ổ Cứng .
-3. **Giải quyết sự cô kỹ thuật với AI**: Khắc phục lỗi Wi-Fi không kết nối với thiết bị Windows 10 bằng phương pháp chạy các câu lệnh nhờ vào Gork AI.
+3. **Giải quyết sự cô kỹ thuật với AI**: Khắc phục lỗi Wi-Fi không kết nối với thiết bị Windows 10 bằng phương pháp chạy các câu lệnh nhờ vào Grok AI.
 
 5. **Ứng dụng AI trong học tập**; Tạo infographic bằng Canva AI(Magic Design) và phân tích một số ứng dụng của AI liên quan đến các lĩnh vực công nghệ thông tin.
 ## Công cụ AI đã sử dụng
-- Gemini, Gork AI : hổ trợ tra cứu thông tin, dữ liệu liên quan đến thông số trên thiết bị,cách khắc phục lỗi không thể kết nối trên Windows 10 .
+- Gemini, Grok AI : hổ trợ tra cứu thông tin, dữ liệu liên quan đến thông số trên thiết bị,cách khắc phục lỗi không thể kết nối trên Windows 10 .
 - Canva AI (Magic Design): "Tạo infographic về ứng dụng Al trong công nghệ thông tin" dùng câu lệnh trên để tạo thông tin bằng AI.
   ## Cấu trúc thư mục
 - `NhiemVu_1.1_PhanCung/` - Thông số phần cứng + ảnh Task Manager
