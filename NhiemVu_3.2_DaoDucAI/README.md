@@ -1,5 +1,5 @@
 #README: Đạo Đức Số & Sử Dụng AI Minh Bạch (Nhiệm vụ 3.2)
-##Tóm Tắt: Nội dung giới thiệu quy trình tạo Infographic **"Ứng dụng AI trong Công nghệ thông tin "** bằng Canva AI. Sản phẩm áp dụng khung **DigComp 2.2** và các nguyên tắc đạo đức AI theo **Stahl (2021)** nhằm đảm bảo tính minh bạch, trung thực và trách nhiệm.
+## Tóm Tắt: Nội dung giới thiệu quy trình tạo Infographic **"Ứng dụng AI trong Công nghệ thông tin "** bằng Canva AI. Sản phẩm áp dụng khung **DigComp 2.2** và các nguyên tắc đạo đức AI theo **Stahl (2021)** nhằm đảm bảo tính minh bạch, trung thực và trách nhiệm.
 ### 1.Quy trình thực hiện
    - **Công cụ**: Canva AI (Magic Design) với prompt *"Tạo infographic về ứng dụng AI trong công nghệ thông tin"*.
    - **Vai trò của AI**: Đề xuất bố cục ban đầu.
@@ -14,5 +14,5 @@
    - **Tuân thủ (Compliance)**: Tôn trọng bản quyền nội dung & hình ảnh
 
 ### 3. Tài liệu tham khảo
-   - * **Stahl, B. C. (2021)**: "Ethical Issues of AI". In *Artificial Intelligence for a Better Future* (pp. 35-53).
-   - * **Khung năng lực số DigComp 2.2**.
+   * **Stahl, B. C. (2021)**: "Ethical Issues of AI". In *Artificial Intelligence for a Better Future* (pp. 35-53).
+    * **Khung năng lực số DigComp 2.2**.
