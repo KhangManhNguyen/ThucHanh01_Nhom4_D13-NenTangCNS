@@ -37,9 +37,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;**Chạy chương trình**
 
 
-\- Mở Notepad++, nhấn tổ hợp phím Ctrl + N để tạo trang mới  
+\- Mở **Notepad++**, nhấn tổ hợp phím **Ctrl + N** để tạo trang mới  
 
-\- Nhập thử đoạn code print("Hello from Notepad++ and Windows 11!)
+\- Nhập thử đoạn code **print("Hello from Notepad++ and Windows 11!)**
 
 ![](Print.png)  
 
