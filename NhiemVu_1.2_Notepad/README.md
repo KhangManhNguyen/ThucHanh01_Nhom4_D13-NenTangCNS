@@ -39,10 +39,10 @@
 
 \- Mở **Notepad++**, nhấn tổ hợp phím **Ctrl + N** để tạo trang mới  
 
-\- Nhập thử đoạn code **print("Hello from Notepad++ and Windows 11!)** và lưu file với đuôi **.py**
+\- Nhập thử đoạn code **`print("Hello from Notepad++ and Windows 11!)`** và lưu file với đuôi **`.py`**
 
 ![](Print.png)  
 
-\- Bấm **Run** hoặc **F5**, sau đó nhập câu lệnh **cmd /k "python -u "$(FULL_CURRENT_PATH)** và chọn **Run**
+\- Bấm **Run** hoặc **F5**, sau đó nhập câu lệnh **`cmd /k "python -u "$(FULL_CURRENT_PATH)`** và chọn **Run**
 ![](Cmd.png)
 
