@@ -8,7 +8,7 @@
 | --- | --- | --- |
 | Nguyễn Quốc Huy | B2613106 | 1.1 (Phần cứng) + 2.1 (Lỗi Wi-Fi) |
 | Hồ Nguyễn Minh Huy | B2613104 | 1.2 (Cài Notepad++) + 2.2 (Lỗi file Python lớn) |
-| Nguyễn Mạnh Khang | B2613107 | 3.1 (Infographic Canva) |
+| Nguyễn Mạnh Khang | B2613107 | 3.1 (Infographic Canva) + Khởi tạo repository GitHub |
 | Nguyễn Đức Huy | B2613105 | 3.2 (Đoạn văn đạo đức AI) |
 
 ## Nội dung thực hành
