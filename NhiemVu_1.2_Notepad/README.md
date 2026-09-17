@@ -39,7 +39,7 @@
 
 \- Mở **Notepad++**, nhấn tổ hợp phím **Ctrl + N** để tạo trang mới  
 
-\- Nhập thử đoạn code **`print("Hello from Notepad++ and Windows 11!)`** và lưu file với đuôi **`.py`**
+\- Nhập thử đoạn code **`print("Hello from Notepad++ and Windows 11!")`** và lưu file với đuôi **`.py`**
 
 ![](Print.png)  
 
