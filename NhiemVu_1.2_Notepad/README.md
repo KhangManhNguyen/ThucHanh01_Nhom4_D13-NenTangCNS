@@ -43,6 +43,6 @@
 
 ![](Print.png)  
 
-\- Bấm **Run** hoặc **F5**, sau đó nhập câu lệnh **`cmd /k "python -u "$(FULL_CURRENT_PATH)`** và chọn **Run**
+\- Bấm **Run** hoặc **F5**, sau đó nhập câu lệnh **`cmd /k python -u "$(FULL_CURRENT_PATH)"`** và chọn **Run**
 ![](Cmd.png)
 
