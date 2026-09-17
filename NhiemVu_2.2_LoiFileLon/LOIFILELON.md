@@ -8,7 +8,7 @@
 ![](lagg.png)
 
 
-\- Truy cập **[Google Gemini](https://gemini.google.com/app)** và nhập promt _"Cách khắc phục lỗi Notepad++ không mở được file Python lớn trên Windows."_  
+\- Truy cập **[Google Gemini](https://gemini.google.com/app)** và nhập prompt _"Cách khắc phục lỗi Notepad++ không mở được file Python lớn trên Windows."_  
 
 
 \- **Google Gemini** đưa ra các giải pháp sau: 
@@ -22,7 +22,7 @@
 
 ![](Download.png)
 
--Mở lại file Python trên **VsCode** và kết quả **THÀNH CÔNG**  
+- Mở lại file Python trên **VsCode** và kết quả **THÀNH CÔNG**  
 
 
 ![](Success.png)
