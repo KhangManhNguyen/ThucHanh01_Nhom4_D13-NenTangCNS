@@ -11,3 +11,5 @@
 **Nguồn hình ảnh:** Unsplash (miễn phí bản quyền, tích hợp sẵn trong Canva)
 
 **Giấy phép:** Creative Commons Attribution 4.0 (CC BY 4.0)
+
+![Ảnh chụp Canva AI](Canva.png)
